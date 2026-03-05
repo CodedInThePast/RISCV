@@ -10,7 +10,7 @@ Architecture
 
 The processor is designed using the classical RISC datapath model, consisting of the following major components:
 
-Program Counter (PC)
+Program Counter (PC) /n
 Maintains the address of the current instruction and updates based on sequential execution or control flow instructions.
 
 Instruction Memory Interface
